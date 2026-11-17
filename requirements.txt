@@ -1,0 +1,9 @@
+torch
+sentence-transformers
+datasets
+faiss-cpu
+openai
+pandas
+numpy
+scikit-learn
+tqdm
