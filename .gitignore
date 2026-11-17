@@ -28,3 +28,4 @@ Thumbs.db
 # Project archives and generated artifacts
 *.zip
 models/
+data/
